@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="lightlanguage — creative systems for visual generation and interactive storytelling" width="100%">
+  <img src="assets/frontier-header.png" alt="lightlanguage — creative systems for visual generation and interactive storytelling" width="100%">
 </p>
 
 ### 欢迎来到我的研究与创作记录
