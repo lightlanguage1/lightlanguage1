@@ -1,40 +1,47 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="lightlanguage — building with models, stories and imagination" width="100%">
+  <img src="assets/profile-banner.png" alt="lightlanguage — creative systems for visual generation and interactive storytelling" width="100%">
 </p>
 
-<h1 align="center">你好，我是 lightlanguage 👋</h1>
+### 欢迎来到我的研究与创作记录
 
-<p align="center">
-  探索生成式 AI、视觉创作与交互叙事，把想法做成可以运行的作品。<br>
-  Exploring generative AI, visual creation and interactive storytelling.
-</p>
+我在探索 **生成式 AI、视觉创作和交互叙事**：从模型实验到工具落地，把过程、结果和遇到的问题一起记录下来。
 
-<p align="center">
-  <a href="https://lightlanguage1.github.io/anima-single-lora-style-transfer/">研究展示</a> &nbsp;·&nbsp;
-  <a href="https://huggingface.co/lightlanguang/Anima-Single-LoRA-Style-Transfer-10788">Hugging Face 模型</a> &nbsp;·&nbsp;
-  <a href="https://github.com/lightlanguage1?tab=repositories">全部项目</a>
-</p>
+Exploring generative models, creative tools, and interactive systems.
+
+**领域**　视觉生成 / 语言模型 / 游戏与叙事　　**工作方式**　实验 · 构建 · 分享
 
 ---
 
-### 🔭 正在探索 | What I'm exploring
+## 项目档案 / Project index
 
-- **画风迁移与生成模型**：围绕 Anima、LoRA 和 ComfyUI，探索参考图画风与内容保持。
-- **AI 与故事创作**：尝试用语言模型、记忆和工作流构建更有连续性的创作工具。
-- **交互与游戏系统**：对角色、叙事和可扩展的游戏机制保持好奇。
+<a href="https://github.com/lightlanguage1/anima-single-lora-style-transfer">
+  <img src="assets/anima-project.png" alt="Project 01: Anima single-LoRA style transfer" width="100%">
+</a>
 
-### ✨ 精选项目 | Selected projects
+参考图引导的画风迁移研究，包含训练实验、评估记录和 ComfyUI 节点。  
+[项目代码](https://github.com/lightlanguage1/anima-single-lora-style-transfer)　/　[研究展示](https://lightlanguage1.github.io/anima-single-lora-style-transfer/)　/　[10788 LoRA](https://huggingface.co/lightlanguang/Anima-Single-LoRA-Style-Transfer-10788)
 
-| 项目 | 简介 |
-| :-- | :-- |
-| [**Anima Single-LoRA Style Transfer**](https://github.com/lightlanguage1/anima-single-lora-style-transfer) | 参考图引导的画风迁移研究，包含实验记录、ComfyUI 节点与工作流。 [研究页面](https://lightlanguage1.github.io/anima-single-lora-style-transfer/) · [10788 LoRA](https://huggingface.co/lightlanguang/Anima-Single-LoRA-Style-Transfer-10788) |
-| [**InkForge**](https://github.com/lightlanguage1/InkForge) | 面向中文长篇小说的 AI 创作系统，探索 Agent、叙事规划与故事记忆。 |
-| [**New-Katlin**](https://github.com/lightlanguage1/New-Katlin) | 游戏开发学习项目，探索角色成长、战斗与经营机制。 |
+<a href="https://github.com/lightlanguage1/InkForge">
+  <img src="assets/inkforge-project.png" alt="Project 02: InkForge AI story generation system" width="100%">
+</a>
 
-### 🛠️ 常用技术 | Toolbox
+面向中文长篇小说的 AI 创作系统，探索 Agent、叙事规划和故事记忆。  
+[查看 InkForge](https://github.com/lightlanguage1/InkForge)
 
-`Python` · `PyTorch` · `ComfyUI` · `LoRA` · `React` · `TypeScript` · `Unity` · `C#`
+<a href="https://github.com/lightlanguage1/New-Katlin">
+  <img src="assets/katlin-project.png" alt="Project 03: New-Katlin game systems and interaction" width="100%">
+</a>
+
+游戏开发学习项目，探索角色成长、战斗与经营机制。  
+[查看 New-Katlin](https://github.com/lightlanguage1/New-Katlin)
 
 ---
 
-<p align="center"><sub>持续实验，记录结果，也分享还没有解决的问题。</sub></p>
+## 工作台 / Toolbox
+
+**模型与生成**　`Python` · `PyTorch` · `LoRA` · `ComfyUI`  
+**应用与交互**　`React` · `TypeScript` · `Unity` · `C#`
+
+> 保持好奇，记录实验，让想法逐渐变成可以使用的作品。
+
+[全部公开项目](https://github.com/lightlanguage1?tab=repositories)　/　[Hugging Face 模型](https://huggingface.co/lightlanguang/Anima-Single-LoRA-Style-Transfer-10788)
